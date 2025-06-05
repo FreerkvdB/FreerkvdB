@@ -1,35 +1,47 @@
-# Hi there, I'm Freerk Van Den Bos 👋
+<div align="center">
+  <h1>Hi there, I'm <span style="color:#007acc;">Freerk Van Den Bos</span> 👋</h1>
+  <p>🎓 Software Engineering Student @ <strong>Belgium Campus ITversity</strong></p>
+  <p>📍 Pretoria, Gauteng, South Africa</p>
+</div>
 
-🎓 I’m a **Software Engineering student** currently in my second year at **Belgium Campus ITversity**, based in Pretoria, South Africa.  
-🛠️ I’m passionate about **building creative and functional software solutions** through teamwork and continuous learning.
+---
 
-## 🚀 About Me
+### 🧑‍💻 About Me
 
-- 💡 I enjoy problem-solving and collaborating in group projects that challenge my thinking and help me grow.
-- 🧰 My current tech stack includes:
-  - **Languages:** HTML, CSS, JavaScript, C#
-  - **Databases:** SQL, Microsoft Access
-  - **Tools & IDEs:** Visual Studio, VS Code, SQL Server Management Studio (SSMS)
-- 📚 Currently exploring various fields in tech and open to learning opportunities.
+I’m a second-year **Bachelor of Computing** student specializing in **Software Engineering**. I'm passionate about crafting innovative software solutions and enjoy collaborating with others to solve real-world problems.
 
-## 🧠 Skills
+- 💡 Strong interest in web development and database systems
+- 🧩 Love working on team projects and enhancing functionality through code
+- 🌱 Eager to explore all areas of tech and expand my skill set
 
-- HTML / CSS / JavaScript
-- C#
-- SQL / Microsoft Access
-- Visual Studio / VS Code / SSMS
-- Teamwork & Problem Solving
+---
 
-## 📜 Certifications
+### 🛠️ Tech Stack
 
-- [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges) *(Include your badge link if available)*
+- **Languages:** HTML, CSS, JavaScript, C#
+- **Databases:** SQL, Microsoft Access
+- **Tools & IDEs:** Visual Studio, VS Code, SSMS
+- **Soft Skills:** Teamwork, Problem Solving
 
-## 📫 Let's Connect!
+---
+
+### 🏆 Certification
+
+- 📜 Microsoft Certified: Azure Data Fundamentals
+
+---
+
+### 📫 Let's Connect
 
 - 📧 Email: [vdbosfreerk@gmail.com](mailto:vdbosfreerk@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/freerk-van-den-bos-390999274](https://www.linkedin.com/in/freerk-van-den-bos-390999274)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,sql,vscode,visualstudio" alt="Tech Icons" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=freerk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
