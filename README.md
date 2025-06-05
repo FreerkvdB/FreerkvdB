@@ -1,22 +1,17 @@
-<!-- Responsive Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/FreerkvdB/FreerkvdB/blob/main/banner.png" alt="Freerk Van Den Bos Banner" style="max-width: 100%; border-radius: 12px;" />
+  <img src="https://github.com/freerkvdb/freerkvdb/blob/main/banner.png" alt="Freerk Van Den Bos Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Freerk Van Den Bos 👋</h1>
-<h3 align="center">🚀 Software Engineering Student | 🧠 Creative Problem Solver | 💻 Code Craftsman</h3>
+<h3 align="center">Software Engineering Student at Belgium Campus ITversity</h3>
 
 ---
 
 ## 🧑‍💼 About Me
 
-I'm a second-year **Bachelor of Computing** student at **Belgium Campus ITversity** majoring in Software Engineering.  
-I thrive in collaborative environments and love turning ideas into real software.
-
-<!-- Lottie animation -->
-<p align="center">
-  <img src="https://lottie.host/2ce7380b-a97c-40c7-a8d6-27f2c282109f/n1qdoTIpRb.json" alt="Coding Animation" width="300px" />
-</p>
+I'm a second-year **Bachelor of Computing** student majoring in **Software Engineering** at Belgium Campus ITversity.  
+I enjoy **problem-solving**, **collaborative development**, and building **creative, functional software solutions**.
 
 ---
 
@@ -37,25 +32,20 @@ I thrive in collaborative environments and love turning ideas into real software
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FreerkvdB&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreerkvdB&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FreerkvdB&theme=github-compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=freerkvdb&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freerkvdb&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
 ## 🏅 Certifications
 
-- 📘 Microsoft Certified: Azure Data Fundamentals  
-- 🧑‍🤝‍🧑 Collaboration & Project Management (Academic Projects)
+- Microsoft Certified: Azure Data Fundamentals  
+- Group Project Management & Collaboration (Course-based)
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect with Me
 
 <p align="center">
   <a href="mailto:vdbosfreerk@gmail.com">
@@ -68,5 +58,4 @@ I thrive in collaborative environments and love turning ideas into real software
 
 ---
 
-> ✨ _"Code is like magic – it creates something from nothing."_  
-> — **Freerk Van Den Bos**
+
