@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/freerkvdb/freerkvdb/blob/main/banner.png" alt="Freerk Van Den Bos Banner" />
+  <img src="https://github.com/freerkvdB/freerkvdB/blob/main/Icons.png" alt="Freerk Van Den Bos Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Freerk Van Den Bos 👋</h1>
