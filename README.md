@@ -43,5 +43,5 @@ I’m a second-year **Bachelor of Computing** student specializing in **Software
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=freerk&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FreerkvdB&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </div>
