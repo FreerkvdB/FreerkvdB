@@ -1,54 +1,24 @@
-# 👋 Hi there, I'm Freerk Van Den Bos!
+# 💫 About Me:
+🔭I'm a second-year Software Engineering student @ Belgium Campus ITversity<br>👯 I’m looking to collaborate on various areas of the tech field and eager to learn, grow, and contribute to real-world projects.<br>
 
-🎓 **Software Engineering Student @ Belgium Campus ITversity**  
-📍 Pretoria, South Africa  
-💻 Passionate about building **creative, functional software solutions**
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/MJsXv7Cs) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/freerk.vandenbos.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/freerk777) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/freerk-van-den-bos-390999274) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vdbosfreerk@gmail.com) 
 
-## 🧠 About Me
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FreerkvdB&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=FreerkvdB&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FreerkvdB&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-I'm a second-year Bachelor of Computing student majoring in Software Engineering. I thrive in collaborative environments and enjoy solving problems with innovative code. I’ve worked on various group projects that sharpened my project management and teamwork skills.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=FreerkvdB&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-I'm actively exploring the tech landscape and love learning through real-world challenges.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=Microsoft-SQL-Server&logoColor=white)
-![Microsoft Access](https://img.shields.io/badge/-Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)
-
-**Tools I Use:**
-- Visual Studio / VS Code  
-- SQL Server Management Studio (SSMS)  
-- Git & GitHub  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=FreerkvdB&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=FreerkvdB&icon=4&color=0)](https://visitcount.itsvg.in)
 
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FreerkvdB&show_icons=true&theme=radical" alt="Freerk's GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FreerkvdB&theme=radical" alt="Freerk's GitHub Streak" width="49%"/>
-</p>
-
-
-
----
-
----
-
-## 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freerk-van-den-bos-390999274/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vdbosfreerk@gmail.com)
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
