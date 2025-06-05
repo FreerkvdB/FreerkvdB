@@ -40,7 +40,6 @@ I enjoy **problem-solving**, **collaborative development**, and building **creat
 
 ## 🏅 Certifications
 
-- Microsoft Certified: Azure Data Fundamentals  
 - Group Project Management & Collaboration (Course-based)
 
 ---
