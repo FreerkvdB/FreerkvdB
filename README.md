@@ -36,11 +36,6 @@ I enjoy **problem-solving**, **collaborative development**, and building **creat
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=freerkvdb&layout=compact&theme=radical" width="48%" />
 </p>
 
----
-
-## 🏅 Certifications
-
-- Group Project Management & Collaboration (Course-based)
 
 ---
 
