@@ -4,7 +4,7 @@
 
 👯 **Experience Highlights**:  
 - Worked on multiple **university group projects** (all hosted in a dedicated repo).  
-- Designed, developed, and currently **manage the official website** for my cycling club.  
+- Designed, developed, and currently **manage the official website** for my cycling club [Pretoria Cycling and Racing Club](https://pcrc.co.za/).  
 
 🌱 **Learning Goals**:  
 - Expanding my skills with **Python**.  
@@ -22,8 +22,8 @@
 ---
 
 ## 💻 Tech Stack
-- **Languages & Frameworks**: C#, HTML5, CSS3, JavaScript  
-- **Databases**: Microsoft SQL Server  
+- **Languages & Frameworks**: C#, HTML5, CSS3, JavaScript, ADO.NET, .NET, C++ (Arduino IDE, basics)
+- **Databases**: Microsoft SQL Server (SSMS), MS Access  
 - **Tools & Platforms**: GitHub, Arduino  
 - **Currently Exploring**: Python, Networking, IoT  
 
