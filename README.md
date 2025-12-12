@@ -1,6 +1,6 @@
 # 💫 About Me
 👋 Hi, I'm **Freerk van den Bos**, a passionate **Software Engineering student** at [Belgium Campus ITversity](https://www.belgiumcampus.ac.za/).  
-🔭 Currently in my second year, I’m eager to **learn, grow, and collaborate** on real-world projects across different areas of tech.  
+🔭 Currently in my third year, I’m eager to **learn, grow, and collaborate** on real-world projects across different areas of tech.  
 
 👯 **Experience Highlights**:  
 - Worked on multiple **university group projects** (all hosted in a dedicated repo).  
@@ -33,11 +33,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FreerkvdB&show_icons=true&theme=tokyonight)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FreerkvdB&layout=compact&theme=tokyonight)  
-
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=FreerkvdB&theme=tokyonight&no-frame=true&margin-w=10)  
 
 ---
 
