@@ -60,7 +60,6 @@ My interests include software engineering, software development, machine learnin
 - Provides information about club events, membership, and race results
 - Responsible for **website design, updates, and maintenance**
 - Deployed and managed as a live production website
-- 👉 *[Add your GitHub repo link]*  
 ---
 
 ## 📂 Projects
