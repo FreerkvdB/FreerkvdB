@@ -66,7 +66,7 @@ My interests include software engineering, software development, machine learnin
 ## 📂 Projects
 
 💻 A collection of my academic and personal projects:  
-👉 *[Add your GitHub repo link]*  
+👉 *https://github.com/FreerkvdB/Uni-Projects*  
 
 ---
 
