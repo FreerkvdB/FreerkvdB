@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Freerk van den Bos
-
+---
 🎓 Third-year Software Engineering student  
-🏆 11 Academic Distinctions | Belgium Campus iTversity  
-💼 Open to WIL, internships, and junior developer roles  
+🏆 11 Academic Distinctions | Belgium Campus iTversity   
+💼 Seeking internships/graduate opportunities in Software Engineering
 
 ---
 
@@ -20,6 +20,7 @@ My interests include software engineering, software development, machine learnin
 - C# (OOP, Layered Architecture)
 - JavaScript
 - HTML & CSS
+- Python
 
 **Databases**
 - SQL (SSMS)
@@ -37,6 +38,7 @@ My interests include software engineering, software development, machine learnin
 - SSMS
 - Arduino IDE
 - TinkerCAD
+- Jupyter Notebook
 
 ---
 
@@ -86,6 +88,9 @@ My interests include software engineering, software development, machine learnin
 - 🥇 Academic Merit Award (2022)  
 
 ---
+
+## 📄 CV
+[Download My CV]()
 
 ## 📫 Connect With Me
 
