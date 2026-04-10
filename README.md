@@ -90,7 +90,7 @@ My interests include software engineering, software development, machine learnin
 ---
 
 ## 📄 CV
-[Download My CV]()
+[Download My CV](https://github.com/FreerkvdB/FreerkvdB/blob/main/Freerk_vdBos_Resume.pdf)
 
 ## 📫 Connect With Me
 
