@@ -1,112 +1,145 @@
-# 👋 Hi, I'm Freerk van den Bos
----
-🎓 Third-year Software Engineering student  
-🏆 11 Academic Distinctions | Belgium Campus iTversity   
-💼 Seeking internships/graduate opportunities in Software Engineering
+# Hi, I'm Freerk van den Bos 👋
+
+**Bachelor of Computing (Software Engineering) Student** at Belgium Campus iTversity
+**Aspiring Software Engineer | Machine Learning & IoT Enthusiast**
+
+I am a third-year Bachelor of Computing (Software Engineering) student with strong foundations in software engineering, backend development, distributed systems, machine learning, and enterprise application development.
+
+I enjoy solving technical problems, building scalable software systems, and applying software engineering principles to real-world projects.
+
+🏆 **11 Academic Distinctions**
+📈 **69% Weighted Average**
+💼 **Seeking WIL, Software Engineering Internship, and Graduate Opportunities**
 
 ---
 
-## 🚀 About Me
+## 🛠️ Technical Skills
 
-I’m a motivated software engineering student with a strong passion for building real-world, impactful solutions. I enjoy solving complex problems, working in collaborative environments, and continuously improving my technical skills.
+### Languages
 
-My interests include software engineering, software development, machine learning, and integrating software with hardware systems.
+* C#
+* Python
+* JavaScript
+* SQL
+* HTML & CSS
+
+### Software Engineering
+
+* Object-Oriented Programming (OOP)
+* SDLC
+* APIs
+* Multi-tier Architecture
+* Design Patterns
+* Layered Architecture
+* Software Analysis & Design
+
+### Databases
+
+* SQL Server (SSMS)
+* Database Design
+* Distributed Database Concepts
+* Microsoft Access
+
+### Machine Learning
+
+* Scikit-Learn
+* Pandas
+* Regression
+* Clustering
+* Neural Networks
+* K-Means
+* Naïve Bayes
+* Support Vector Machines (SVM)
+
+### Tools & Technologies
+
+* .NET
+* Git & GitHub
+* Visual Studio
+* VS Code
+* Jupyter Notebook
+* Arduino IDE
+* TinkerCAD
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-**Languages**
-- C# (OOP, Layered Architecture)
-- JavaScript
-- HTML & CSS
-- Python
+### ✈️ AI-Enabled Pilot Fatigue Detection & Safety System
 
-**Databases**
-- SQL (SSMS)
-- Microsoft Access
+**Mar 2026 – Present**
 
-**Technologies & Concepts**
-- Software Analysis & Design
-- Machine Learning (K-Means, Naïve Bayes, SVM, ANN)
-- IoT (Arduino)
-- Networking & Cloud Fundamentals
+* Developing an intelligent fatigue detection system integrating machine learning and IoT sensors.
+* Designing a scalable client-server architecture for aviation safety applications.
+* Integrating sensor data collection with backend processing and distributed system concepts.
+* Applying machine learning techniques for fatigue analysis and monitoring.
+* Collaborating within a multidisciplinary software engineering team.
 
-**Tools**
-- Visual Studio
-- VS Code
-- SSMS
-- Arduino IDE
-- TinkerCAD
-- Jupyter Notebook
+### 🚴 PCRC Cycling Club Website
 
----
+🌐 https://pcrc.co.za
 
-## 🌐 Featured Projects
+* Designed and developed the official website for the Pretoria Cycling and Racing Club.
+* Built using HTML, CSS, and JavaScript.
+* Responsible for deployment, updates, and ongoing maintenance.
+* Supports club communication, events, membership, and race results.
 
-### AI-Enabled Pilot Fatigue Detection & Safety System
-**Mar 2026 – Oct 2026**
+### 💻 Student Projects Repository
 
-- Developing an AI-based system to detect pilot fatigue in real time
-- Integrating machine learning with IoT hardware components
-- Designing a safety-focused aviation solution
-- Collaborating in a multidisciplinary development team
+A collection of academic and personal software projects:
 
----
-
-### PCRC Cycling Club Website
-🔗 https://pcrc.co.za
-
-- Designed and developed the frontend of the official website for the Pretoria Cycling and Racing Club
-- Built using **HTML, CSS, and JavaScript**
-- Provides information about club events, membership, and race results
-- Responsible for **website design, updates, and maintenance**
-- Deployed and managed as a live production website
----
-
-## 📂 Projects
-
-💻 A collection of my academic and personal projects:  
-👉 *https://github.com/FreerkvdB/Uni-Projects*  
+🔗 https://github.com/FreerkvdB/Uni-Projects
 
 ---
 
 ## 💼 Experience
 
-**Part-Time Promoter – Metrofibre**  
-*Oct 2021 – June 2025*  
-- Promoted company services and engaged with customers  
-- Developed strong communication and interpersonal skills  
-- Handled client queries and brand representation  
+### Part-Time Promoter — Metrofibre
+
+**Oct 2021 – Jun 2025**
+
+* Promoted company services and represented the Metrofibre brand.
+* Engaged with customers and answered client queries.
+* Developed strong communication and interpersonal skills.
 
 ---
 
-## 🏆 Achievements
+## 🎓 Education
 
-- 🎓 11 Academic Distinctions  
-- 📜 GitHub Labs – Master Class Certificate (2025)  
-- 🥇 Academic Merit Award (2022)  
+**Bachelor of Computing (Integrated Honours: Software Engineering)**
+Belgium Campus iTversity
+2024 – Present
+
+* Third-year student
+* 11 Academic Distinctions
+* 69% Weighted Average
 
 ---
 
-## 📄 CV
-[Download My CV](https://github.com/FreerkvdB/FreerkvdB/blob/main/Freerk_vdBos_Resume.pdf)
+## 🏆 Certifications & Awards
 
-## 📫 Connect With Me
-
-- 📧 Email: vdbosfreerk@gmail.com  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/)    
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/freerk.vandenbos.5)  
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/freerk777/?hl=en)  
-
+* GitHub Labs Master Class Certificate (2025)
+* Codecademy – Learn Node.js
+* Codecademy – Learn Node.js Fundamentals
+* Kaggle Learn – Intro to Machine Learning
+* Kaggle Learn – Pandas
+* Academic Merit Award (2022)
 
 ---
 
 ## ⚡ Interests
 
-- Building real-world software solutions  
-- Machine Learning & AI applications  
-- IoT and hardware integration  
-- Problem-solving and system design  
+* Software Engineering
+* Machine Learning & AI
+* IoT Systems
+* Distributed Systems
+* Aviation Technology
+* System Design & Architecture
 
 ---
+
+## 📫 Connect With Me
+
+* 📧 Email: [vdbosfreerk@gmail.com](mailto:vdbosfreerk@gmail.com)
+* 💼 LinkedIn: www.linkedin.com/in/freerk-van-den-bos-390999274
+* 💻 GitHub: https://github.com/FreerkvdB
