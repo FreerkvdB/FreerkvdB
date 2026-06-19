@@ -1,6 +1,6 @@
 # Hi, I'm Freerk van den Bos 👋
 
-**Bachelor of Computing (Software Engineering) Student** at Belgium Campus iTversity
+**Bachelor of Computing (Software Engineering) Student** 
 **Aspiring Software Engineer | Machine Learning & IoT Enthusiast**
 
 I am a third-year Bachelor of Computing (Software Engineering) student with strong foundations in software engineering, backend development, distributed systems, machine learning, and enterprise application development.
@@ -8,8 +8,8 @@ I am a third-year Bachelor of Computing (Software Engineering) student with stro
 I enjoy solving technical problems, building scalable software systems, and applying software engineering principles to real-world projects.
 
 🏆 **11 Academic Distinctions**
-📈 **69% Weighted Average**
-💼 **Seeking WIL, Software Engineering Internship, and Graduate Opportunities**
+
+🎯 **Currently seeking Work Integrated Learning (WIL), Software Engineering Internship, and Graduate Opportunities for 2027–2028.**
 
 ---
 
@@ -17,49 +17,49 @@ I enjoy solving technical problems, building scalable software systems, and appl
 
 ### Languages
 
-* C#
-* Python
-* JavaScript
-* SQL
-* HTML & CSS
+- C#
+- Python
+- JavaScript
+- SQL
+- HTML & CSS
 
 ### Software Engineering
 
-* Object-Oriented Programming (OOP)
-* SDLC
-* APIs
-* Multi-tier Architecture
-* Design Patterns
-* Layered Architecture
-* Software Analysis & Design
+- Object-Oriented Programming (OOP)
+- SDLC
+- APIs
+- Multi-tier Architecture
+- Design Patterns
+- Layered Architecture
+- Software Analysis & Design
 
 ### Databases
 
-* SQL Server (SSMS)
-* Database Design
-* Distributed Database Concepts
-* Microsoft Access
+- SQL Server (SSMS)
+- Database Design
+- Distributed Database Concepts
+- Microsoft Access
+- MongoDB
 
 ### Machine Learning
 
-* Scikit-Learn
-* Pandas
-* Regression
-* Clustering
-* Neural Networks
-* K-Means
-* Naïve Bayes
-* Support Vector Machines (SVM)
+- Scikit-Learn
+- Pandas
+= Regression
+- Clustering
+- Neural Networks
+- K-Means
+- Naïve Bayes
+- Support Vector Machines (SVM)
 
 ### Tools & Technologies
-
-* .NET
-* Git & GitHub
-* Visual Studio
-* VS Code
-* Jupyter Notebook
-* Arduino IDE
-* TinkerCAD
+- .NET
+- Git & GitHub
+- Visual Studio
+- VS Code
+- Jupyter Notebook
+- Arduino IDE
+- TinkerCAD
 
 ---
 
@@ -69,9 +69,12 @@ I enjoy solving technical problems, building scalable software systems, and appl
 
 **Mar 2026 – Present**
 
+**Role:** Project Manager & IoT/Hardware Lead
+
+* Leading project planning, task coordination, and milestone delivery.
 * Developing an intelligent fatigue detection system integrating machine learning and IoT sensors.
 * Designing a scalable client-server architecture for aviation safety applications.
-* Integrating sensor data collection with backend processing and distributed system concepts.
+* Integrating sensor data collection with backend processing and distributed systems concepts.
 * Applying machine learning techniques for fatigue analysis and monitoring.
 * Collaborating within a multidisciplinary software engineering team.
 
@@ -112,8 +115,7 @@ Belgium Campus iTversity
 
 * Third-year student
 * 11 Academic Distinctions
-* 69% Weighted Average
-
+* Expected Graduation: 2028
 ---
 
 ## 🏆 Certifications & Awards
@@ -135,6 +137,15 @@ Belgium Campus iTversity
 * Distributed Systems
 * Aviation Technology
 * System Design & Architecture
+
+---
+
+## 🌟 Interests Beyond Technology
+
+* Passionate cyclist and member of the Pretoria Cycling and Racing Club (PCRC).
+* Completed the Cannondale Maluti Double 90 cycling event (2026).
+* Runner and advocate of an active lifestyle.
+* Aviation 
 
 ---
 
