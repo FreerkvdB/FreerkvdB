@@ -120,7 +120,9 @@ Belgium Campus iTversity
 
 ## 🏆 Certifications & Awards
 
-* GitHub Labs Master Class Certificate (2025)
+* Kaggle Learn - Data Visualization
+* Kaggle Learn - Data Cleaning
+* GitHub Labs Master Class Certificate
 * Codecademy – Learn Node.js
 * Codecademy – Learn Node.js Fundamentals
 * Kaggle Learn – Intro to Machine Learning
