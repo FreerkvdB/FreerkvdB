@@ -1,250 +1,102 @@
 # Hi, I'm Freerk van den Bos 👋
 
-**Bachelor of Computing (Software Engineering) Student**
-**Aspiring Software Engineer | Machine Learning & IoT Enthusiast**
+**Software Engineering Student | Machine Learning & IoT Enthusiast**
 
-I am a third-year Bachelor of Computing (Software Engineering) student with strong foundations in software engineering, backend development, distributed systems, machine learning, and enterprise application development.
+I'm a third-year Bachelor of Computing (Software Engineering) student at Belgium Campus iTversity in Pretoria, with a foundation in software engineering, backend development, distributed systems, machine learning and enterprise application development.
 
-I enjoy designing and building software solutions that solve real-world problems while applying software engineering principles, clean architecture, and modern development practices.
+I like designing and building software that solves real problems, using clean architecture and modern development practices.
 
-🏆 **12 Academic Distinctions**
+🏆 **12 academic distinctions**
+🎯 **Looking for:** Work-Integrated Learning (WIL), software engineering internships and graduate opportunities for 2027 to 2028. Available full-time from January 2027.
 
-🎯 **Currently seeking Work Integrated Learning (WIL), Software Engineering Internship, and Graduate Opportunities for 2027–2028.**
-
----
-
-# 🛠️ Technical Skills
-
-## Languages
-
-* C#
-* Java
-* Python
-* JavaScript
-* SQL
-* HTML & CSS
-
-## Software Engineering
-
-* Object-Oriented Programming (OOP)
-* Software Development Life Cycle (SDLC)
-* MVC Architecture
-* APIs and REST Services
-* Multi-tier Architecture
-* Layered Architecture
-* Design Patterns
-* Software Analysis & Design
-* Version Control (Git)
-
-## Databases
-
-* PostgreSQL
-* SQL Server (SSMS)
-* Database Design
-* Relational Database Modelling
-* Distributed Database Concepts
-* MongoDB
-
-## Machine Learning
-
-* Scikit-Learn
-* Pandas
-* Regression
-* Clustering
-* Neural Networks
-* K-Means
-* Naïve Bayes
-* Support Vector Machines (SVM)
-
-## Tools & Technologies
-
-* .NET
-* Java Servlets
-* JSP
-* JDBC
-* Apache Tomcat
-* Git & GitHub
-* Visual Studio
-* VS Code
-* Jupyter Notebook
-* Arduino IDE
-* TinkerCAD
+🌐 **Portfolio:** [freerkvandenbos.netlify.app](https://freerkvandenbos.netlify.app/)
+📧 **Email:** [vdbosfreerk@gmail.com](mailto:vdbosfreerk@gmail.com)
+💼 **LinkedIn:** [freerk-van-den-bos](https://www.linkedin.com/in/freerk-van-den-bos-390999274)
 
 ---
 
-# 🚀 Featured Projects
+## 🛠️ Technical skills
 
-## ✈️ AI-Enabled Pilot Fatigue Detection & Safety System
-
-**Mar 2026 – Present**
-
-**Role:** Project Manager & IoT/Hardware Lead
-
-An intelligent aviation safety system designed to detect and predict pilot fatigue using IoT sensors, machine learning, and distributed system architecture.
-
-Responsibilities:
-
-* Leading project planning, task coordination, and milestone delivery.
-* Designing an IoT architecture using Raspberry Pi and ESP32 sensor devices.
-* Developing sensor data collection and communication systems.
-* Integrating machine learning models for fatigue detection.
-* Designing scalable backend and API communication between components.
-* Applying software engineering principles to a multidisciplinary engineering project.
+| Area | Skills |
+| --- | --- |
+| **Languages** | C#, Java, Python, JavaScript, SQL, HTML, CSS |
+| **Software engineering** | OOP, SDLC, MVC, REST APIs, multi-tier and layered architecture, design patterns, software analysis and design, Git |
+| **Databases** | PostgreSQL, SQL Server (SSMS), MongoDB, relational modelling, distributed database concepts |
+| **Machine learning** | Scikit-Learn, Pandas, regression, clustering, K-Means, Naïve Bayes, SVM, neural networks |
+| **Tools and technologies** | .NET, Java Servlets, JSP, JDBC, Apache Tomcat, Git and GitHub, Visual Studio, VS Code, Jupyter Notebook, Arduino IDE, TinkerCAD, Raspberry Pi, ESP32 |
 
 ---
 
-## 🎓 Student Registration System
+## 🚀 Featured projects
 
-🔗 Repository: https://github.com/FreerkvdB/StudentRegistrationSystem
+### ✈️ AI-Enabled Pilot Fatigue Detection & Safety System
+*Mar 2026 to present | Project Manager and IoT/Hardware Lead*
 
-A Jakarta EE web application developed to manage students, courses, and enrollments using a structured MVC architecture.
+A system that detects and predicts pilot fatigue using IoT sensors, machine learning and a distributed architecture.
 
-Features:
+- Lead project planning, task coordination and milestone delivery
+- Design the IoT architecture using Raspberry Pi and ESP32 sensor devices
+- Build sensor data collection and communication systems
+- Integrate machine learning models for fatigue detection
+- Design the scalable backend and API communication between components
 
-* User authentication and session management.
-* Student registration and management.
-* Course management.
-* Student-course enrollment management.
-* PostgreSQL database integration using JDBC.
-* Servlet-based backend with JSP frontend.
-* Relational database design using primary and foreign key relationships.
+### 🎓 [Student Registration System](https://github.com/FreerkvdB/StudentRegistrationSystem)
+A Jakarta EE web application for managing students, courses and enrolments, built with a structured MVC architecture.
 
-Technologies:
+- User authentication and session management
+- Student, course and enrolment management
+- PostgreSQL integration using JDBC, with a relational design built on primary and foreign keys
 
-* Java
-* Jakarta Servlets
-* JSP
-* JDBC
-* PostgreSQL
-* Apache Tomcat
-* Apache NetBeans
+**Tech:** Java, Jakarta Servlets, JSP, JDBC, PostgreSQL, Apache Tomcat, Apache NetBeans
 
----
+### 🚴 [PCRC Cycling Club Website](https://pcrc.co.za)
+The official website of the Pretoria Cycling and Racing Club, built with HTML, CSS and JavaScript. I handle deployment and ongoing maintenance, including updates to club communication, events, membership information and race results.
 
-## 🚴 PCRC Cycling Club Website
+### 🧑‍⚕️ Biokineticist Practice Website: Bernadette Eksteen Biokineticist
+*Freelance front-end developer | In development, client review in progress*
 
-🌐 https://pcrc.co.za
+A responsive marketing website for a healthcare and rehabilitation practice, taken from a client brand brief to a documented, deployable production build.
 
-Official website developed for the Pretoria Cycling and Racing Club.
+- Turned the brand brief into a project specification, a requirements traceability matrix and Architecture Decision Records (ADRs)
+- Designed a custom design system (colour tokens, type scale, spacing scale) in plain CSS
+- Built a 5-page responsive site in vanilla HTML, CSS and JavaScript with no framework, prioritising fast load times and progressive enhancement
+- Added Netlify Forms with AJAX submission, honeypot spam protection and email notifications
+- Added a WhatsApp click-to-chat booking flow as the main conversion path
+- Set up a `development`/`main` Git workflow with Netlify branch-deploy previews so the client can review changes before they go live
+- Wrote the project documentation and a testing and QA checklist
 
-Responsibilities:
+**Tech:** HTML5, CSS3, JavaScript, Netlify (hosting, forms, CI/CD), Git and GitHub
 
-* Designed and developed the website using HTML, CSS, and JavaScript.
-* Managed deployment and ongoing maintenance.
-* Implemented updates for club communication, events, membership information, and race results.
-
----
-
-## 🧑‍⚕️ Biokineticist Practice Website — Bernadette Eksteen Biokineticist
-
-**Role:** Freelance Front-End Developer
-**Status:** In development — client review in progress
-
-A responsive marketing website for a healthcare and rehabilitation practice, taken from a client brand brief through to a fully documented, deployable production build.
-
-Responsibilities:
-
-* Translated a client brand brief into a formal project specification, requirements traceability matrix, and Architecture Decision Records (ADRs).
-* Designed a custom design system (colour tokens, type scale, spacing scale) in plain CSS matched to client branding.
-* Built a 5-page responsive site in plain HTML, CSS and JavaScript with no external framework, prioritising fast load times and progressive enhancement.
-* Implemented Netlify Forms with AJAX submission, spam-honeypot protection, and dynamic email notifications.
-* Implemented a WhatsApp click-to-chat booking flow as the primary conversion path.
-* Set up a Git branching workflow (development/main) with Netlify branch-deploy previews so the client can review and approve changes before anything reaches production.
-* Authored full project documentation: a project instructions document (Word + Markdown), ADRs, and a testing/QA checklist.
-
-Technologies:
-
-* HTML5
-* CSS3 (custom design tokens, no framework)
-* JavaScript (vanilla)
-* Netlify (Hosting, Forms, CI/CD)
-* Git & GitHub
+### 💻 [Uni Projects](https://github.com/FreerkvdB/Uni-Projects)
+A collection of academic and personal projects covering C# and .NET, Java, web development, SQL databases, MongoDB, machine learning and software engineering concepts.
 
 ---
 
-## 💻 Student Projects Repository
+## 💼 Experience
 
-A collection of academic and personal software projects:
+**Part-Time Promoter, Metrofibre** | Oct 2021 to Jun 2025
+Represented the Metrofibre brand, helped customers with product and service enquiries, and built strong communication, teamwork and customer engagement skills.
 
-🔗 https://github.com/FreerkvdB/Uni-Projects
+## 🎓 Education
 
-Includes projects involving:
+**Bachelor of Computing (Integrated Honours: Software Engineering)**
+Belgium Campus iTversity | 2024 to present | Expected graduation 2028
 
-* C#/.NET
-* Java
-* Web Development
-* SQL Databases
-* MongoDB
-* Machine Learning
-* Software Engineering concepts
+## 🏆 Certifications and awards
 
----
-
-# 💼 Experience
-
-## Part-Time Promoter — Metrofibre
-
-**Oct 2021 – Jun 2025**
-
-Responsibilities:
-
-* Promoted company services and represented the Metrofibre brand.
-* Assisted customers with product and service enquiries.
-* Developed strong communication, teamwork, and customer engagement skills.
+- Kaggle Learn: Data Visualization, Data Cleaning, Intro to Machine Learning, Pandas
+- Codecademy: Learn Node.js, Learn Node.js: Fundamentals
+- GitHub Labs Master Class Certificate
+- Academic Merit Award (2022)
 
 ---
 
-# 🎓 Education
+## ⚡ Interests
 
-## Bachelor of Computing (Integrated Honours: Software Engineering)
+Software engineering, machine learning and AI, IoT systems, distributed systems, system design and architecture, backend development and aviation technology.
 
-**Belgium Campus iTversity**
-**2024 – Present**
-
-* Third-year student
-* 12 Academic Distinctions
-* Expected Graduation: 2028
+Outside of tech, I'm a cyclist and a member of the Pretoria Cycling and Racing Club (PCRC), I completed the Cannondale Maluti Double 90 in 2026, and I enjoy running and an active lifestyle.
 
 ---
 
-# 🏆 Certifications & Awards
-
-* Kaggle Learn – Data Visualization
-* Kaggle Learn – Data Cleaning
-* Kaggle Learn – Intro to Machine Learning
-* Kaggle Learn – Pandas
-* GitHub Labs Master Class Certificate
-* Codecademy – Learn Node.js
-* Codecademy – Learn Node.js Fundamentals
-* Academic Merit Award (2022)
-
----
-
-# ⚡ Interests
-
-* Software Engineering
-* Machine Learning & Artificial Intelligence
-* IoT Systems
-* Distributed Systems
-* Aviation Technology
-* System Design & Architecture
-* Backend Development
-
----
-
-# 🌟 Interests Beyond Technology
-
-* Passionate cyclist and member of the Pretoria Cycling and Racing Club (PCRC).
-* Completed the Cannondale Maluti Double 90 cycling event (2026).
-* Runner and advocate of an active lifestyle.
-* Interested in aviation technology and engineering systems.
-
----
-
-# 📫 Connect With Me
-
-📧 Email: [vdbosfreerk@gmail.com](mailto:vdbosfreerk@gmail.com)
-
-💼 LinkedIn: [linkedin.com/in/freerk-van-den-bos-390999274](https://www.linkedin.com/in/freerk-van-den-bos-390999274)
-
-💻 GitHub: [github.com/FreerkvdB](https://github.com/FreerkvdB)
+📫 **Let's connect:** [Portfolio](https://freerkvandenbos.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/freerk-van-den-bos-390999274) · [Email](mailto:vdbosfreerk@gmail.com)
